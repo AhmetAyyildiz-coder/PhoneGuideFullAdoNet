@@ -7,3 +7,7 @@ Telefon Rehberi Projesi - Full Pure Ado Net
 Login olup sisteme giriş yapıyoruz. Henüz session benzeri yada identity benzeri bir yapı oluşturmadım. Login biraz yüzeysel.
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/84086596/179374514-893075a5-bafe-44b5-8996-6544e348683b.gif)
+
+Kayıt ekler eklemez event tetikleniyor ve database'e kayıt ekleniyor. 
+
+Diğer bir event olarak da bir kullanıcıya tıkladığımızda onun düzenleme işlevlerini alttaki kısımda gösteriyoruz.
