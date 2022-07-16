@@ -11,3 +11,6 @@ Login olup sisteme giriş yapıyoruz. Henüz session benzeri yada identity benze
 Kayıt ekler eklemez event tetikleniyor ve database'e kayıt ekleniyor. 
 
 Diğer bir event olarak da bir kullanıcıya tıkladığımızda onun düzenleme işlevlerini alttaki kısımda gösteriyoruz.
+
+
+Proje dosyaları içerisindeki script dosyasını uygulayarak ve gerekirse connectionstring değiştirerek kullanabilirsiniz
