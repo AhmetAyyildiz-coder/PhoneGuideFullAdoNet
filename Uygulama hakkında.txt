@@ -1,0 +1,6 @@
+Bu uygulamamız ado net mimarisi kullanılarak
+veritabanına data gönderme ve data çekme üzerine kurgulanmış
+bir rehber kayıt uygulamasıdır. Entityframework gibi ileri 
+düzey konulardan önce bilinmesi gereken en temel konu budur.
+
+Burada katmanlı mimari bakış açısıyla bu programlamayı yaptık.
